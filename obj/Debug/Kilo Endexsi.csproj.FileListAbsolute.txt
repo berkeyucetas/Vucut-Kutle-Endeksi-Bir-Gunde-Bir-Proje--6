@@ -1,0 +1,11 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\bin\Debug\Kilo Endexsi.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\bin\Debug\Kilo Endexsi.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\bin\Debug\Kilo Endexsi.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo Endexsi.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo Endexsi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo_Endexsi.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo_Endexsi.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo Endexsi.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo Endexsi.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo Endexsi.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Kilo Endexsi\Kilo Endexsi\obj\Debug\Kilo Endexsi.pdb
